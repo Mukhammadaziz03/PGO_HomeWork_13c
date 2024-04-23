@@ -15,5 +15,4 @@ public class Studies {
         return numberOfSemesters;
     }
 
-    // Other getters for study program information
 }
