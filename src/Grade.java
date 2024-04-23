@@ -7,5 +7,4 @@ public class Grade {
         this.subject = subject;
     }
 
-    // Getters for grade and subject
 }
