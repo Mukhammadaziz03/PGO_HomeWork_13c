@@ -49,5 +49,4 @@ public class Student {
         return indexNumber;
     }
 
-    // Other getters and setters for student information
 }
